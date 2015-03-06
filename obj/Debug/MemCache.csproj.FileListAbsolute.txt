@@ -1,0 +1,6 @@
+C:\Users\Victa_000\Documents\GitHub\MemCache\obj\Debug\MemCache.csprojResolveAssemblyReference.cache
+C:\Users\Victa_000\Documents\GitHub\MemCache\bin\Debug\MemCache.dll.config
+C:\Users\Victa_000\Documents\GitHub\MemCache\bin\Debug\MemCache.dll
+C:\Users\Victa_000\Documents\GitHub\MemCache\bin\Debug\MemCache.pdb
+C:\Users\Victa_000\Documents\GitHub\MemCache\obj\Debug\MemCache.dll
+C:\Users\Victa_000\Documents\GitHub\MemCache\obj\Debug\MemCache.pdb
