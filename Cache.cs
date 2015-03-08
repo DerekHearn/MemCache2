@@ -22,7 +22,7 @@ namespace MemCache
 
         protected CacheItem[] _items = new CacheItem[_SIZE];
 
-        protected object myLock;
+        protected object myLock = new object();
 
         protected int _index = 0;
 

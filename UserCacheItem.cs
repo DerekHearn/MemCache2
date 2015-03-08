@@ -58,6 +58,8 @@ namespace MemCache
 
             foreach (UserCacheItem item in items)
             {
+                if (item == null)
+                    continue;
                 if (item.sessionGuid.Equals(_sessionGuid))
                 {
                     _item = item;
